@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mphata0318
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning dart
+- 🌱 I’m currently learning flutter... it's draining me
 - 💞️ I’m looking to collaborate on instagram/anywhere
 - 📫 How to reach me @r.ose_mabala on instagram
 - 😄 Pronouns: she/her
